@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Sample />
+      <Sample/>
       <Greet name="shada" />
       <State/>
     </>
