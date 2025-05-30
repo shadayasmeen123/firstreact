@@ -1,14 +1,16 @@
-import Greet from "./Greet"
-import Sample from "./Sample"
-import State from "./State"
+import Form from "./Form"
+// import Greet from "./Greet"
+// import Sample from "./Sample"
+// import State from "./State"
 function App() {
   
 
   return (
     <>
-      <Sample/>
+      {/* <Sample/>
       <Greet name="shada" />
-      <State/>
+      <State/> */}
+      <Form />
     </>
   )
 }
